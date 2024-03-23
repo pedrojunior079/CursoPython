@@ -5,6 +5,7 @@
 :computer: Aula 04: Trabalhando com Strings
 :computer: Aula 05: Input, Comentarios e Calculadora Basica
 :computer: Aula 06: Collections, Lists e Tuples
+:computer: Aula 07: Funções em Python
 
 
 
