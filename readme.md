@@ -6,6 +6,7 @@
 :computer: Aula 05: Input, Comentarios e Calculadora Basica
 :computer: Aula 06: Collections, Lists e Tuples
 :computer: Aula 07: Funções em Python
-
+:computer: Aula 08: If...Else statements, Operadores Lógicos
+:computer: Aula 09: Loops: While e For
 
 
