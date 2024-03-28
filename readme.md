@@ -8,5 +8,6 @@
 :computer: Aula 07: Funções em Python
 :computer: Aula 08: If...Else statements, Operadores Lógicos
 :computer: Aula 09: Loops: While e For
+:computer: Aula 10: Coleções: set e dictionary
 
 
