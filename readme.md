@@ -9,5 +9,7 @@
 :computer: Aula 08: If...Else statements, Operadores Lógicos
 :computer: Aula 09: Loops: While e For
 :computer: Aula 10: Coleções: set e dictionary
+:computer: Aula 11: Tratando exceção – Try…Except…Finally
+
 
 
