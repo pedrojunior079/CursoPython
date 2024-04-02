@@ -10,6 +10,7 @@
 :computer: Aula 09: Loops: While e For
 :computer: Aula 10: Coleções: set e dictionary
 :computer: Aula 11: Tratando exceção – Try…Except…Finally
+:computer: Aula 12: Manipulando Arquivos
 
 
 

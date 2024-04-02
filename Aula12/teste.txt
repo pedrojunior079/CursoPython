@@ -1,0 +1,11 @@
+Python
+PHP
+Javascript
+Node
+React
+Next
+SQL
+C++
+C#
+Java
+MySQL
