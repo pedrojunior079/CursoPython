@@ -11,6 +11,10 @@
 :computer: Aula 10: Coleções: set e dictionary
 :computer: Aula 11: Tratando exceção – Try…Except…Finally
 :computer: Aula 12: Manipulando Arquivos
+:computer: Aula 13: Modulos e PIP
+:computer: No terminal digite: pip install beautilfulsoup4
+:computer: No terminal digite: pip install beautilfulsoup4 -t ./libs
+:computer: No terminal digite: pip uninstall beautilfulsoup4 -t ./libs
 
 
 
