@@ -15,6 +15,6 @@
 #:computer: No terminal digite: pip install beautilfulsoup4
 #:computer: Para instalar a pasta ./libs dentro do projeto digite: pip install beautilfulsoup4 -t ./libs
 #:computer: Para remover a pasta./libs da instalação do python digite: pip uninstall beautilfulsoup4 -t ./libs
-
+#:computer: Aula14: Orientação a Objetos em Python
 
 
